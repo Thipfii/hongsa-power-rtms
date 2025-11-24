@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KCKG3TqoD3U=",
+  "success": true,
+  "projectFilePath": "D:\\repos\\web_monitoring_hongsa\\hongsa-power-rtms\\backend\\Hongsa.Rtms.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thipdavanh_v\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\thipdavanh_v\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\thipdavanh_v\\.nuget\\packages\\scalar.aspnetcore\\2.11.0\\scalar.aspnetcore.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
