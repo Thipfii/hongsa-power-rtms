@@ -32,3 +32,4 @@ D:\repos\web_monitoring_hongsa\hongsa-power-rtms\backend\obj\Debug\net10.0\Hongs
 D:\repos\web_monitoring_hongsa\hongsa-power-rtms\backend\obj\Debug\net10.0\Hongsa.Rtms.Api.genruntimeconfig.cache
 D:\repos\web_monitoring_hongsa\hongsa-power-rtms\backend\obj\Debug\net10.0\ref\Hongsa.Rtms.Api.dll
 D:\repos\web_monitoring_hongsa\hongsa-power-rtms\backend\bin\Debug\net10.0\Scalar.AspNetCore.dll
+D:\repos\web_monitoring_hongsa\hongsa-power-rtms\backend\obj\Debug\net10.0\Hongsa.Rtms.Api.sourcelink.json
